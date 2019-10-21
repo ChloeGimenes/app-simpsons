@@ -17,6 +17,22 @@
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
-}
+button {
+  
+    background-color:#fffc47;
+    border-radius:50px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffa1db;
+    font-family:Arial;
+    font-size:25px;
+    padding:16px 31px;
+    border: 12px solid #ffa1db
+    
+  
+  }
+
+  .button:hover {
+    background-color:#5cbf2a;
+  }
+
